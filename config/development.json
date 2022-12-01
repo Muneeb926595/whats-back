@@ -1,0 +1,14 @@
+{
+  "baseUrl": "/server/",
+  "name": "whatsapp-api",
+  "port": 3000,
+  "jwtPrivateKey": "123",
+  "host": "http://localhost",
+  "DataBase_Name": "whatsapp",
+  "mongoDb": {
+    "uri": "mongodb+srv://whatsapp:j3c16tGqhATkihBP@cluster0.5p56g.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "port": "27017",
+    "username": "username",
+    "password": "password db"
+  }
+}
